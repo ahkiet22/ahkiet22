@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫About Me :
 I'm an Information Technology student and a newcomer to programming, passionate about exploring modern technologies. I'm constantly learning, improving my skills, and expanding my mindset. My goal is to become a Software Engineer and make a positive impact through my work.
 
 # 💻Tech Stack
