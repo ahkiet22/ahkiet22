@@ -15,7 +15,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahkiet22&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<p align="center">
+<img alt="github-readme-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ahkiet22&theme=radical&hide_border=false">
+</p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ahkiet22&label=Profile%20views&color=0e75b6&style=flat" alt="ahkiet22" /> 
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ahkiet22?label=Stars">
