@@ -1,23 +1,22 @@
 ## Hi👋
+<p align="center">
+  <img align="right" alt="GIF" height="140px" src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" />
+ <p align="left">I'm an Information Technology student and a newcomer to programming, passionate about exploring modern technologies. I'm constantly learning, improving my skills, and expanding my mindset. My goal is to become a Software Engineer and make a positive impact through my work.</p>
+</p>
+<p>
+</p>
 
-<!--
-**ahkiet22/ahkiet22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nodejs,express,nextjs,nestjs,materialui,tailwind,postgres,mongodb)](https://skillicons.dev)
+## ⚙️GitHub Analytics
+<p align="center">  
+<a href="https://github.com/ahkiet22">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahkiet22&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahkiet22&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
-I'm an Information Technology student and a newcomer to programming, passionate about exploring modern technologies. I'm constantly learning, improving my skills, and expanding my mindset. My goal is to become a Software Engineer and make a positive impact through my work.
-
-# 💻Tech Stack 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊GitHub Stats : 
-![](https://github-readme-stats.vercel.app/api?username=ahkiet22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahkiet22&theme=radical&hide_border=false)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ahkiet22&label=Profile%20views&color=0e75b6&style=flat" alt="ahkiet22" /> 
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ahkiet22?label=Stars">
+</p>
