@@ -1,4 +1,4 @@
-## Hi👋
+## Hi👋 
 <p align="center">
   <img align="right" alt="GIF" height="140px" src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" />
  <p align="left">I'm an Information Technology student and a newcomer to programming, passionate about exploring modern technologies. I'm constantly learning, improving my skills, and expanding my mindset. My goal is to become a Software Engineer and make a positive impact through my work.</p>
