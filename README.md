@@ -7,7 +7,7 @@
 </p>
 
 # 💻Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,solidity,html,css,react,nodejs,express,nextjs,nestjs,materialui,tailwind,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,go,solidity,html,css,react,nodejs,express,nextjs,nestjs,materialui,tailwind,postgres,mongodb)](https://skillicons.dev)
 ## ⚙️GitHub Analytics
 <p align="center">  
 <a href="https://github.com/ahkiet22">
