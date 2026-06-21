@@ -1,7 +1,7 @@
 ## Hi👋 
 <p align="center">
   <img align="right" alt="GIF" height="140px" src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" />
- <p align="left">I'm an Information Technology student and a passionate developer. Currently, my core focus is Frontend development, where I enjoy building intuitive and responsive user interfaces. Meanwhile, I am actively expanding my expertise in Backend technologies to become a well-rounded Software Engineer. I'm constantly learning, improving my skills, and aiming to make a positive impact through my work.</p>
+ <p align="left">I’m Kiet, a Software Developer based in Ho Chi Minh City, Vietnam. I build modern web applications with a focus on clean UI, fast performance, and scalable architecture.My work focuses on delivering scalable, high-performance, and user-friendly solutions, from modern frontend experiences to robust backend services and APIs.</p>
 </p>
 <p>
 </p>
